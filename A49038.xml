@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>This day the president and governours of Christs-Hospital, London, to whom the rule, oversight and government of carrs, carts, carr-rooms, carters and carmen, within the city of London and liberties thereof, is committed by act of Common-Council ...</title>
+            <author>City of London (England).</author>
+         </titleStmt>
+         <extent>Approx. 43 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49038</idno><idno type="EEBO-CITATION">18504853</idno>
+  <idno type="VID">107912</idno>
+  <idno type="EEBO-PROQUEST">2240876396</idno>
+  
+            <idno type="STC">Wing L2864L</idno>
+            <idno type="STC">ESTC R39822</idno>
+            <idno type="OCLC">18504853</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A49038)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 107912)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1637:64)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>This day the president and governours of Christs-Hospital, London, to whom the rule, oversight and government of carrs, carts, carr-rooms, carters and carmen, within the city of London and liberties thereof, is committed by act of Common-Council ...</title>
+                  <author>City of London (England).</author>
+                  <author>Peake, William, Sir.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1668]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from first four lines of text.</note>
+                  <note>At head of title: Peake mayor. Martis 28. die April. 1668. Annoque regni Regis Caroli Secundi Angliæ, &amp;c. xx.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of original in the Guildhall, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Carriages and carts --  England --  London.</term>
+               <term type="geographic_name">London (England) --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb n="1" facs="tcp:107912:1"/>
+            <opener>
+               <signed>PEAKE MAYOR.</signed>
+               <date>
+                  <hi>Martis</hi> 28. die <hi>April.</hi> 1668. Annoque Regni Regis CAROLI Secundi Angliae, <hi>&amp;c.</hi> xx.</date>
+            </opener>
+            <p>THis day the President and Governours of <hi>Christs-Hospital, London,</hi> to whom the Rule, Oversight and Government of Carrs, Carts, Carr-rooms, Carters and Carmen, within the City of London and Liberties thereof, is committed by Act of <hi>Common-Council,</hi> made the One and twentieth day of <hi>June,</hi> One Thousand Six Hundred Sixty Five, in the Seventeenth Year of his Majesties Reign, exhibited into this Court a Book of Orders, Rules, Directions, and Limitations, devised for the better Regulation of the said Carrs, Carts, Car<g ref="char:EOLhyphen"/>ters, and Carr-men, Humbly submitting the same to be allowed and confirmed by this Court, according to the said Act of <hi>Common-Council,</hi> and the Cuctom of this City; Wherupon the said Orders, Rules, Directions, and Limitations were here openly and deliberately read, and advisedly and maturely considered, and af<g ref="char:EOLhyphen"/>ter some alterations and amendments therein made, were well liked, ratified and confirmed, and Ordered to be observed, executed and performed by all Persons con<g ref="char:EOLhyphen"/>cerned in all Points, and in all times hereafter, until this Court, or the <hi>Com<g ref="char:EOLhyphen"/>mon-Council</hi> of this City shall see cause to Order or Direct any thing to the con<g ref="char:EOLhyphen"/>trary thereof, or of any Articles or Clauses therein contained.</p>
+            <p>
+               <hi>And it is further Ordered,</hi> That the said President and Governours, may as they see cause, use and publish the said Orders, Rules, Directions and Limitati<g ref="char:EOLhyphen"/>ons, under the Title, and in manner and form following; That is to say,</p>
+            <div type="orders">
+               <head>ORDERS, RƲLES, DIRECTIONS, <hi>and</hi> LIMITATIONS,</head>
+               <p>
+                  <hi>Made by the Right Honourable Sir</hi> William Peake, <hi>Knight, Lord Mayor of the City of</hi> London, <hi>and the Right Wor<g ref="char:EOLhyphen"/>shipful the Aldermen his Brethren, at a Court held in the Chamber of the</hi> Guild Hall, London, <hi>on</hi> Tuesday, <hi>the Eight and Twentieth day of</hi> April, <hi>One Thousand Six Hundred Sixty and Eight, in the Twentieth Year of the Reign of Our Soveraign Lord King</hi> Charles <hi>the Second,</hi> &amp;c. <hi>for the fur<g ref="char:EOLhyphen"/>ther Direction of the President and Governours of</hi> Christs-Hospital, London, <hi>in the Rule, Oversight, and Government of the Carrs, Carts, Carters, and Carmen, within the City of</hi> London, <hi>and Liberties thereof, and for the better Govern<g ref="char:EOLhyphen"/>ment and Ordering of the said Carrs, Carts, Carters, and
+<pb n="2" facs="tcp:107912:2"/>Carmen, within the said City of</hi> London, <hi>in pursuance of an Act of</hi> Common Council, <hi>held in the Chamber of the</hi> Guild hall <hi>of the said City, the One and Twentieth day of</hi> June, <hi>One Thousand Six Hundred Sixty and Five, and in the Seven<g ref="char:EOLhyphen"/>teenth Year of His said Majesties Reign.</hi>
+               </p>
+               <p>
+                  <hi>WHereas</hi> heretofore (that is to say) in the Third Year of the Reign of Our late Soveraign Lord King <hi>James,</hi> of <hi>England,</hi> &amp;c. (and of <hi>Scotland,</hi> the Nine and Thirtieth) the Carr-Men of <hi>London</hi> were incorporated with the Company of <hi>Woodmongers, London,</hi> by His said Highness Letters Patents, bearing date the Nine and Twentieth day of <hi>August,</hi> in the Years aforesaid, since which time (to wit) the Fifth day of <hi>December,</hi> in the Nine<g ref="char:EOLhyphen"/>teenth Year of the Reign of our now Soveraign Lord King <hi>Charles</hi> the Second, the Master and Wardens of the said Company of <hi>Wood-mongers,</hi> by their Writing under their Common Seal, and by them acknowledged in <hi>Chancery,</hi> did surrender to Our now Soveraign Lord the King the said Letters Patents, and by means there<g ref="char:EOLhyphen"/>of, are Disincorporated, by reason whereof, the said Carr-men have humbly be<g ref="char:EOLhyphen"/>sought this Court, that they may be a Fellowship, or Fraternity, as anciently, and such Orders made by this Court for the better Regulating and Ordering the several Members of the said Fellowship, as should be thought expedient.</p>
+               <p>
+                  <hi>This</hi> Court well weighing the desire of the said Carr-men, and considering, that the Mayor, and Commonalty, and Citizens of this City, time out of mind, have had the right of Ordering and disposing of Carrs, Carts, Carr-rooms, Carters, and Carr-men, and of all other person or persons whatsoever, Working any Carr or Carts within the City of <hi>London</hi> and Liberties thereof, and in pursuance thereof, by the said Act of <hi>Common Council,</hi> made the One and twentieth day of <hi>June,</hi> One Thousand Six Hundred Sixty and Five, have placed, the Rule, Oversight, and Government of them, in the President and Governours of <hi>Christs-Hospital, London,</hi> to Order them accord<g ref="char:EOLhyphen"/>ing to the Rules, Directions, and Provisions in the said Act mentioned, and according to such other Orders, Rules, Directions, and Limitations, as the said <hi>Common Council</hi> or this Court, upon consideration, should make and provide in that be<g ref="char:EOLhyphen"/>half. And further considering, that the said Act doth not sufficiently provide for the Ordering and Regulating such Persons as should be Members of the said Fellow<g ref="char:EOLhyphen"/>ship in their labours,</p>
+               <p>
+                  <hi>Have</hi> therefore thought it fit and necessary, to declare how and in what manner the said Carr-men shall be governed for the future, under the said President and Governours, and what Orders and Rules they shall put in execution amongst them<g ref="char:EOLhyphen"/>selves.</p>
+               <p>
+                  <hi>And First,</hi> This Court doth desire the said President, or Governours, strictly to observe, and effectually to put in execution all such Orders, Rules, Directions, and Limitations, as are mentioned and contained in the said Act of <hi>Common Coun<g ref="char:EOLhyphen"/>cil</hi> of the One and Twentieth of <hi>June,</hi> One Thousand Six Hundred Sixty and Five, which concerneth the Rule, Oversight, and Government of the said Carr-men, and other Persons, working Carrs, and Carts, in the said Act of <hi>Common Coun<g ref="char:EOLhyphen"/>cil</hi> mentioned.</p>
+               <p>
+                  <hi>Secondly,</hi> That the said President or Governours strictly observe and effectually put in Execution all the Orders, Rules, Directions, and Limitations, mentioned in an Order of the General Quarter Sessions, holden at <hi>Justice-Hall</hi> in the <hi>Old Bayley,</hi> the Sixteenth day of <hi>January,</hi> in the Eighteenth year of the Reign of Our Soveraign Lord King <hi>Charles</hi> the Second, <hi>&amp;c.</hi> Which Order of Sessions doth
+<pb n="3" facs="tcp:107912:2"/>not only appoint what Rates the said Carr-men shall receive, but doth give further Directions how the said Carr-men shall be Governed by the said President or Gover<g ref="char:EOLhyphen"/>nour for the future. And the said President or Governours, are not only desired to observe the said Act of <hi>Common-Council,</hi> and Order of Sessions, and the Or<g ref="char:EOLhyphen"/>ders hereafter following, but also all other Acts of <hi>Common-Council,</hi> Orders of this Court and Court of Sessions, as shall hereafter be made concerning the said Carr-men.</p>
+               <p>
+                  <hi>Thirdly,</hi> The said President or Governours are desired by this Court, to take care, that every Cart allowed by them to Work within the City of <hi>London,</hi> and the Liberties thereof, contain in length between the <hi>Tugg-hole</hi> and the <hi>Fore-Ear</hi> breadth Six Foot and Four Inches of Assize and no more, and in breadth, between the two <hi>Raves</hi> in the Body of the said Cart, four foot of Assize, and no more; and in length, from the <hi>Fore-Ear</hi> breadth to the end of the Cart, seven Foot and two Inches of Assize, and no more; And if any Carr shall be found of greater Length or Breadth, that then the same Carr, may be taken up by the said President or Go<g ref="char:EOLhyphen"/>vernours, or their Officer or Officers, appointed for that purpose, and be sent to the New Store-Yard.</p>
+               <p>
+                  <hi>Fourthly,</hi> The said President or Governours are desired to take care that all Carr-men be Ordered with their empty Carrs to stand in convenient places of this City, to be ready for Merchants and all other Persons that shall have occasions to use them. And if any Carr-man shall not observe the Rule that shall be made by the said President or Governours, for their standings in the Streets for Merchants and others, every Carr-man so offending, shall for the first Offence, pay two Shil<g ref="char:EOLhyphen"/>lings and Six pence, for the second Offence Five Shillings, and for his third, and every other Offence, Ten Shillings; And for refusal or not payment of any of the said Fines, they to be by the said President or Governours discharged from Work<g ref="char:EOLhyphen"/>ing any Carr or Cart within the City of <hi>London,</hi> and Liberties thereof.</p>
+               <p>
+                  <hi>Fifthly,</hi> That the said President or Governours shall take care, that no Carr-man leave his Carr in the Streets, Lanes or common Passages of this City or Liberties thereof by Night, whereby any person or persons may take harm, upon pain of For<g ref="char:EOLhyphen"/>feiting for every time he or they so leave his Carr in the Streets by Night, the sum of Five Shillings, besides recompence to the party as shall sustain hunt or damage thereby.</p>
+               <p>
+                  <hi>Sixthly,</hi> That the said President or Governours take care that no Carr within this City be heard to creak, or pipe for dryness, or want of Greasing in the <hi>Nave,</hi> and every owner of such Carr as shall be found so to do, shall Forfeit and Pay for every day that his Carr shall be observed to creak, or pipe; the Sum of Two Shil<g ref="char:EOLhyphen"/>lings.</p>
+               <p>
+                  <hi>Seventhly,</hi> That the said President or Governours take care that no Carr-man within this City or Liberties thereof use or put into his Carr for the carriage of any Merchandise whatsoever, any more Horses, than One at one time, except it be up the Hill, or with Timber or Stone that cannot be divided, upon pain of Forfeiting for every Offence, Two Shillings.</p>
+               <p>
+                  <hi>Eighthly,</hi> That the said President or Governours take care, that no person or persons shall take up or carry greater Loads than was the ancient custom or practice to do, which ancient custom or practice shall be declared by the said President or Go<g ref="char:EOLhyphen"/>vernours to all the Carr-men, upon pain, that every person that shall so do, shall Forfeit and pay the sum of Five Shillings for the first Offence, the second Offence Ten Shillings, and for the third Offence, shall be disenabled from further working a Carr, within the City of <hi>London,</hi> and Liberties thereof.</p>
+               <p>
+                  <hi>Ninthly,</hi> That the said President or Governours take care that no Carr-man his Journey-man, or Servant ride upon his Carr, or drives his Horse a Trot in the Street, or otherwise, in a more speedy course or pace than is usual, upon pain of Forfeiting for every Offence herein, Two Shillings.</p>
+               <pb n="4" facs="tcp:107912:3"/>
+               <p>
+                  <hi>Tenthly,</hi> That the said President, or Governours take care, that every Carr-man lead his Horse by the Head, with an Horse Halter of three foot and no lon<g ref="char:EOLhyphen"/>ger, with a special regard always before him as behind him, as well for Children as for Aged people; and if he shall suffer his Horse to go in the Streets without leading him, as aforesaid, for every time he shall so offend, he shall forfeit and pay Two Shillings.</p>
+               <p>
+                  <hi>Eleventhly,</hi> That the said President, or Governours take care, that no Carr-man within this City and Liberties thereof, shall appoint any Servant; or Journey<g ref="char:EOLhyphen"/>man to go with any Carr, or Cart, before he be presented to them the said Presi<g ref="char:EOLhyphen"/>dent, or Governours, and allowed by them, which Servant or Journeyman shall be of the age of Eighteen Years, at the least; and whatsoever Carr-man shall here<g ref="char:EOLhyphen"/>after entertain and imploy as a Carr-man, in guiding of a Carr, any such Servant the full time of six Weeks before he be presented to the said President or Governours, then he shall forfeit and pay for every Week that he shall so entertain and keep him before such presentment, the sum of Five Shillings, and that all the now Servants of Carr-men shall appear before the said President or Governours with their Indentures, to be Allowed and Entred in the Books of the said Governours, for which Entrance to pay Six Pence.</p>
+               <p>
+                  <hi>Twelfthly,</hi> Further, that if any Master Carr-man, or any other, using or en<g ref="char:EOLhyphen"/>joying a Carr within this City and Liberties thereof, shall put away, or set over his Servant or Servants so presented to the said President or Governours, or shall bargain, or sett over any year or years of any such Servant or Servants, or any o<g ref="char:EOLhyphen"/>ther person or persons, before such Carr-man hath first obtained and gotten the good will and consent of the President or Governours aforesaid for the time being, so to do, that it may appear by their Register Book kept by the said President or Governours, of the houest and lawful departure, putting away, or setting over of every such Servant or Servants, that then he the said Master Carr-man shall for every Offence to the contrary, pay Six Shillings and Eight Pence.</p>
+               <p>
+                  <hi>Thirteenthly,</hi> Further, that the said President or Governours take care, that no Carr-man within the City of <hi>London</hi> and Liberties thereof, have more than one Apprentice at one time, and one Journeyman; and if it shall appear to the said President or Governours, that the said Carr-man hath any more than one Appren<g ref="char:EOLhyphen"/>tice and Journeyman, then the said Carr-man to lose his admittance of Working any Carr or Cart within <hi>London,</hi> and the Liberties thereof.</p>
+               <p>
+                  <hi>Fourteenthly,</hi> Further, the said President or Governours are desired, that when any Servant or Journeyman is presented to them to be allowed, and approved to Work a Carr or Cart in <hi>London,</hi> and the Liberties thereof, then they to de<g ref="char:EOLhyphen"/>clare to the said Servant or Journeyman, that the sole disposing of all Carrs to Work, is in the Mayor, and Commonalty, and Citizens of <hi>London,</hi> and in such as claim by, from, or under them, and that he cannot have any Cart to Work or Hire, till one falls void, although he hath served the term of Seven Years Ap<g ref="char:EOLhyphen"/>prentiship.</p>
+               <p>
+                  <hi>Fifteenthly,</hi> Further, the said President or Governours are desired to take care that no such Servant or Servants, do at any time hereafter, mis-behave him or themselves in the Street, and if any be found so to do, then they to inflict such Punishment upon such Servants for such their Mis-behaviours, as in their discreti<g ref="char:EOLhyphen"/>on shall be thought fit; And if any Free Carr-man shall mis-behave himself in the Streets, and proof thereof be made before the said President or Governours, he the said Free-man, shall for his first Offence, pay Ten Shillings, and for his second Offence Twenty Shillings, and for his third Offence Forty Shillings; And for re<g ref="char:EOLhyphen"/>fusal of not paying of any of the said Fines, to be discharged from Working any Carr within the City of <hi>London,</hi> and Liberties thereof.</p>
+               <pb n="5" facs="tcp:107912:3"/>
+               <p>
+                  <hi>Sixteenthly,</hi> The said President and Governours are desired not to admit any Person or Persons to work a Carr within the City of <hi>London</hi> and Liberties there<g ref="char:EOLhyphen"/>of to their own use, other than such as have served Seven years Apprentiship to the calling, and hath a good testimony of his honest life and conversation.</p>
+               <p>
+                  <hi>Seventeenthly,</hi> And further the said President or Governours are desired by this Court, To call all such Carrmen before them as they shall admit or allow of, four times in every year yearly, or as often as they shall think fit; and to cause all the Orders that are now made, or shall hereafter be made for the Rule, Oversight, and Government of the said Carrmen to be openly read to them. And if any Carr-man shall refuse at any time or times to appear upon the Summons of the said Pre<g ref="char:EOLhyphen"/>sident or Governours, by any of the four Street-men, or other Officers of the said President or Governours then they to lay such Fine, Penalty, or Suspension, upon every such Carr-man so offending, as in their discretion shall be thought most fit.</p>
+               <p>
+                  <hi>All which</hi> Orders before mentioned shall be put in Execution by the President or Governours of the said Hospital: And by no other Person or Persons whatso<g ref="char:EOLhyphen"/>ever. And all the Fines arising by breach of the said Ordinances, be applyed, <hi>viz.</hi> One Moyety to the relief of the poor Children harboured in the said <hi>Christs-Hospital:</hi> And the other Moyety to the Ʋse of the Fellowship or Brotherhood of Carr-men.</p>
+            </div>
+            <div type="orders">
+               <head>Now followeth the ORDERS for the <hi>FEL<g ref="char:EOLhyphen"/>LOWSHIP.</hi>
+               </head>
+               <p>
+                  <hi>First,</hi> That all manner of Persons, who now are, or hereafter shall be duly allowed by the said President or Governours of the said Hospital, to work any Carr or Carts within the City of <hi>London,</hi> and Liberties thereof, shall be a Fellowship, and Fra<g ref="char:EOLhyphen"/>ternity by the name of Carr-men of the City of <hi>London,</hi> to put in execution these Orders following, and no other. <hi>viz.</hi>
+               </p>
+               <p>
+                  <hi>Secondly,</hi> That there shall be Three of the said Fellowship, in manner and form fol<g ref="char:EOLhyphen"/>lowing, in these Presents hereunder mentioned, chosen and named, which shall be, and be called the Wardens of the said Fellowship of Carr-men of <hi>London.</hi> And that it shall and may be lawful to and for the said Members of the said Brotherhood or Fellowship, within some convenient time, to Choose and Elect out of themselves, Three able and sufficient Persons, using the Occupation of a Carr-man, to be Wardens of the said Brotherhood or Fellowship, the space of one whole year then next follow<g ref="char:EOLhyphen"/>ing, and from thence until a New Election be made. And that the same Three Persons so Chosen to be Wardens, shall within convenient time after their said Election be presented, by a convenient number of the said Brotherhood, in the Ʋtter Court holden before the Lord Mayor, and Aldermen of the said City, to be Sworn for the true execution of such things as shall appertain unto their Office, ac<g ref="char:EOLhyphen"/>cording to the good Rules and Ordinances to them, to be allowed and approved by the same Court. And that it shall and may be lawful to and for the said Wardens so Sworn as aforesaid, to call unto their Assistance, the number of Twenty of the Members of the said Fellowship, who shall be, and be called the Assistants of the said Fellowship.</p>
+               <p>
+                  <hi>Thirdly,</hi> That <hi>John Hill, William Turner</hi> and <hi>John Earle</hi> be the Three first Wardens of the said Fellowship or Fraternity, to continue for one whole year; and that <hi>William Standley, John Standford, James Rough-head, John Fox, Robert Hardy, Edward Oxlad, Anthony Brown, Isaac Preston, John Clark, Thomas Haynes, Thomas Smith, Thomas Hooker, John Cue, James Maw, Edward Benson, John Caines, Alexander Sheppard, Edward Tucker,
+<pb n="6" facs="tcp:107912:4"/>Edward Lucar</hi> and <hi>John Chitwel,</hi> shall be first Assistants of the said Fellow<g ref="char:EOLhyphen"/>ship or Fraternity.</p>
+               <p>
+                  <hi>Fourthly,</hi> That the old Wardens and Assistants of the said Brotherhood, may lawfully between the five and twentieth Day of <hi>March,</hi> and the four and twentieth Day of <hi>June</hi> in every year the next following, assemble themselves together in some convenient place, by them to be provided, within the City of <hi>London,</hi> and there to choose and elect of themselves out of the said Assistants of the same Brotherhood, Three able men that use the said Occupation, to be Wardens of the said Brother<g ref="char:EOLhyphen"/>hood for one whole year then next following, and so forth until Three others shall be elected and sworn into the said Office. And the same Three Wardens so chosen, within Twenty days then next following after their said Election, shall be sworn in the said Court to be holden in the said Ʋtter Chamber of <hi>Guild-Hall,</hi> before the <hi>Lord Mayor</hi> and <hi>Aldermen</hi> for the time being, truly to do and execute such things as shall appertain and belong to their Office, according to the good Rules and Ordi<g ref="char:EOLhyphen"/>nances to them to be allowed and approved by the same Court. And that if the said Wardens, being thus Elected and Sworn, happen to die within the said Year that they should stand Wardens, That then the Members of the said Brotherhood, <hi>viz.</hi> the said Wardens surviving, and the Assistants of the Brotherhood, may chuse so many more of the same Occupation, to supply and serve in stead and place of him or them so deceased, for the residue of the said Year, in form aforesaid. And in case any such person or persons refuse to hold the said place of a Warden, so chosen, the same person or persons so refusing, shall pay for a Fine, three Pounds, to be em<g ref="char:EOLhyphen"/>ployed to the use of the said Fellowship or Brotherhood.</p>
+               <p>
+                  <hi>Fifthly,</hi> That within one Month next after the chusing of the new Wardens, at the end of every Year in form aforesaid, the old Wardens which occupied and stood in the Office, in the Year then next preceding, shall make and yeild up their Ac<g ref="char:EOLhyphen"/>compts to the Wardens then chosen, and to three or four other persons of the said Brotherhood, such as the said new Wardens shall appoint to take their Accompts; and shall truly answer, pay and deliver unto the said new Wardens, to the use of the same Brotherhood, all that which shall be found to remain in their hands upon that Accompt, upon pain of five pounds to be paid to the use of the said Fellowship. And if the said Accompt be behind, and not given up, and payment of what shall be found to remain in their hands, made as aforesaid, That the old Wardens so fail<g ref="char:EOLhyphen"/>ing (except they have a reasonable and lawful excuse) shall pay for every Month, so long as their Accompts are not given up, and satisfaction made within one Month after the chusing of new Wardens, the sum of five Pounds over and above the a<g ref="char:EOLhyphen"/>foresaid penalty of five Pounds for failure of the first Month, to be employed as aforesaid.</p>
+               <p>
+                  <hi>Sixthly,</hi> That the said Wardens and Assistants of the said Brotherhood or Fel<g ref="char:EOLhyphen"/>lowship, may have, chuse or ordain one meet person, fit and able, to be their Clerk; and one other fit person, or more than one, to be their Beadle or Beadles, as their common Officers, to make Summons in the name of the Wardens for the time being; and to execute other the lawful Precepts and Commandments of the said Fellowship, as the Case shall require; the same Clerk and Beadle or Beadles to have such Salary and Wages as the old Wardens and Brotherhood for the time being, shall think fit, and allow unto them; to be paid quarterly every Year. The same Beadle or Beadles to be of the Occupation aforesaid: And that it shall be lawful for the said Wardens for the time being, to Levy, Collect and Receive of the Members of the said Bro<g ref="char:EOLhyphen"/>therhood, a competent Sum of Money to be by them agreed upon, by the name of <hi>Quarteridge,</hi> towards the Charges of the said Brotherhood, as in other Fellowships in this City is used; so as the Jame Quarteridge exceeds not Twelve pence a Quarter for any one person.</p>
+               <pb n="7" facs="tcp:107912:4"/>
+               <p>
+                  <hi>Seventhly,</hi> That as often as any person of the said Brotherhood or Fellowship, hereafter shall be duly summoned by the Beadle of the said Society, to appear be<g ref="char:EOLhyphen"/>fore the Wardens of the said Fellowship for the time being, at a certain hour assign<g ref="char:EOLhyphen"/>ed, and appeareth not at the time and place appointed, according to their Sum<g ref="char:EOLhyphen"/>mons, That the said person so summoned, making default (unless he have some rea<g ref="char:EOLhyphen"/>sonable and lawful excuse) shall pay to the use of the said Fellowship, for a Fine, such a Sum of Money as the said Wardens for the time being, shall appoint, not ex<g ref="char:EOLhyphen"/>ceeding two Shillings and six-pence.</p>
+               <p>
+                  <hi>Eighthly,</hi> That if any person, being a man of the same Fellowship, shall at any time hereafter, use, or give any evil, opprobrious or reviling Language in the Street, or elsewhere, to any other Free-man of the same Fellowship, that then the person so offending, shall pay to the use of the said Brotherhood, the Sum of five shillings. And if any Apprentice, Servant to any of the said Fellowship, shall offend in such wise, That then the same Apprentice or Servant shall be punished by the Order and Discretions of the Wardens of the said Company for the time being.</p>
+               <p>
+                  <hi>Ninthly,</hi> That if any Free-man of the said Fellowship, shall strike, or fight with any of the said Fellowship, that then he shall forfeit for every such Offence, Ten Shillings, to be paid to the use of the said Fellowship: And every Apprentice guilty of the like Offence, shall be punished at the discretion of the Wardens, as aforesaid. But if any Free-man of the said Fellowship, Journey-man or Servant, shall give evil, opprobrious or reviling Language in the Streets, or elsewhere, to any person whatsoever, not free of the said Fellowship, or strike, or fight with any such person, the said Brotherhood shall have nothing to do therein; but the said Journey-man or Servant shall be punished by the Order and Discretion of the President or Go<g ref="char:EOLhyphen"/>vernors of <hi>Christs Hospital.</hi>
+               </p>
+               <p>
+                  <hi>Tenthly,</hi> That for the preservation of Ʋnanimity and Brotherly Love amongst the said Brotherhood, no person of the said Fellowship whatsoever shall go to Suit of Law with any other Member of the same, for any Cause or Difference whatsoever, until he hath first acquainted the Wardens of the said Company for the time being, therewith; and obtained License of them so to do. And if any of the said Fellowship shall at any time offend herein, he shall forfeit and pay to the use of the said Fellowship the Sum of Forty Shillings.</p>
+               <p>
+                  <hi>Eleventhly,</hi> That if any person of the said Fellowship shall happen to forfeit any Sum or Sums of Money for any thing in these Orders, or any of them comprised, and then the same person refuse and deny to pay the same Money, it being two several times demanded, if the party offending be of ability, then the Wardens and Assistants of the said Fellowship shall complain to the <hi>Lord Mayor</hi> for the time being, and the person so offending is to be punished after the discretion of the <hi>Lord Mayor</hi> and <hi>Court</hi> of <hi>Aldermen.</hi>
+               </p>
+               <p>
+                  <hi>Twelfthly,</hi> That the Wardens of the said Fellowship for the time being, shall not permit or suffer any Apprentice to be bound by them to any Free-man using the said Occupation, until he do produce a Testimonial of Allowance from the said President or Governours, or whom they shall appoint.</p>
+               <p>
+                  <hi>Thirteenthly,</hi> That every person of the said Brotherhood, within two Months after he taketh unto him any Apprentice, and hath the said Testimonal of Allowance from the said President or Governours, or whom they shall appoint, shall present the same Apprentice to the Wardens of the said Fellowship for the time heing, and shall then pay unto the Common Box of the said Fellowship, for the presenting of every such Apprentice the Sum of Twelve pence, and for the Indenture Eighteen pence: And that none of the said Brotherhood or Fellowship shall at any time hereafter, take an Apprentice for any shorter or lesser time than Seven Years: And that such Apprentice at the end of the said Term, having truly served his said
+<pb n="8" facs="tcp:107912:5"/>Term, shall be made free by his said Master: And that such Apprentice before his admittance into the Freedom of this City, shall be presented again unto the War<g ref="char:EOLhyphen"/>dens of the said Fellowship for the time being, and there before them, shall subscribe a Note whereby he shall undertake to the Three Wardens to be contributary to all manner of Charges belonging to the said Brotherhood to his power, and pay to the said Brotherhood for his admittance into the Brotherhood, Six Shillings and Eight pence, and to the Clerk Two Shillings and Six pence, and unto the Beadle Twelve pence.</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="oath">
+                           <head>The Oath of every Person at his first Admittance into the Bro<g ref="char:EOLhyphen"/>therhood or Fellowship of CARRMEN of the City of <hi>London;</hi> To be Administred by the Wardens and Assistants of the said Fellowship or Brotherhood for the time being.</head>
+                           <p>YOU shall Swear, <hi>You shall be true to our Soveraign Lord the Ring, and His Successours; You shall be obedient to the President or Go<g ref="char:EOLhyphen"/>vernours of</hi> Christ's-Hospital, <hi>and to such in whom the city shall hereafter place the Government of Carrs, by the act of</hi> Common-Council, <hi>and to the</hi> Wardens <hi>for the time present. You shall not discover the lawful Counsel of this Fraternity. You shall not take a Foreign man into your Service, but only such as use the occupation of a Carr-man, or else an Ap<g ref="char:EOLhyphen"/>prentice duly bound without fraud? At the beginning of their Terms or be<g ref="char:EOLhyphen"/>fore, you shall bring and present them before the</hi> Wardens <hi>of the said Fellow<g ref="char:EOLhyphen"/>ship for the time being, and here have the Indentures to be made, and every such Apprentice to be Intolled within the first Year, as the Customis. You shall not entice or withdraw any mans Servant of this Society. until that reasonable departing be made with his said Master.</hi>
+                           </p>
+                           <p>
+                              <hi>These, and all other good Rules made, and to be made not reversed; You shall keep so near as God give you Grace.</hi>
+                           </p>
+                           <closer>So help you God, <hi>&amp;c.</hi>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>Fourteenthly, <hi>That no person being made a Free-man of the said Brotherhood shall take an Apprentice to be bound unto him until he hath been a Free-man by the space of four years (unless in case of Lameness and Sickness, and where a Journeyman of the said Society is not to be had; and then the same to be with License of the President or Governours of</hi> Christ's Hospital, <hi>and Wardens of the said Fel<g ref="char:EOLhyphen"/>lowship for the time being) and after the expiration of the said four years, then to take only one Apprentice and no more.</hi>
+               </p>
+               <p>Fifteenthly, <hi>That if at any time, within the Term, any Wardens of the said Brotherhood or Fellowship (which shall stand and occupy that Room) shall neglect to put in execution, and duly to observe these Orders and Rules in this Book to be kept according to the best of their power, and likewise to cause the same Ordinances to be read twice a Year in some convenient place, to all the Fraternity and Brother<g ref="char:EOLhyphen"/>hood; that then the said Wardens shall pay Twenty Shillings for a Fine in that be<g ref="char:EOLhyphen"/>half to the use of the said Brotherhood.</hi>
+               </p>
+               <closer>Pet. Concord cum Original.
+<signed>AVERY.</signed>
+               </closer>
+               <postscript>
+                  <p>And this Court doth Direct and Order, That Mr. <hi>Chamberlain</hi> shall take notice of the said <hi>Carr-men</hi> as a <hi>Fellowship</hi> and <hi>Brotherhood</hi> of this City, and Enroll and make Free their Apprentices, according to the Intent and meaning of the said Ordinance</p>
+                  <closer>
+                     <signed>AVERY.</signed>
+                  </closer>
+               </postscript>
+            </div>
+            <div type="order">
+               <pb n="9" facs="tcp:107912:5"/>
+               <head>
+                  <hi>London ss.</hi> Ad General' Quarterial' Session' p<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cis Dom' Regis &amp; Re<g ref="char:EOLhyphen"/>ginoe tent' pro Civitat' <hi>London,</hi> apud <hi>Guihald'</hi> ejus<g ref="char:EOLhyphen"/>dem Civitat' ac infra eandem Civitat' die <hi>Lunae,</hi> scil Duodecimo die <hi>Octobris,</hi> Anno Regni Dom' nost' <hi>Will' &amp; Mariae,</hi> Dei Grat' <hi>Angl' Scot' Franc' &amp; Hi<g ref="char:EOLhyphen"/>bern'</hi> Regis &amp; Reginoe, Fidei Defensor', <hi>&amp;c.</hi> tertio; coram <hi>Thoma Pilkington</hi> Milite, Majore Civitat' <hi>Lon<g ref="char:EOLhyphen"/>don, Patien' Ward</hi> Milite, <hi>Johanne Moor</hi> Milite, <hi>Jonathan' Raymond</hi> Milite, &amp; <hi>Petro Daniell</hi> Milite Aldermannis Civitat' proed. Justic dictor. Dominor. Regis &amp; Reginoe, ad pacem in Civitat. proed. conservand' necnon ad divers' Felon' Transgression' &amp; al' Malefacta infra eandem Civitat' perpetrata audiend &amp; terminand' assig<g ref="char:EOLhyphen"/>nat'.</head>
+               <p>WHEREAS Daily Complaints are made by Merchants and other Citizens, and Inhabitants within the City of <hi>London</hi> and Liberties thereof, of the excessive Rates demanded and received by Carr-men above what is reasonable, and hath been limited and appointed for carriages within this City and Liberties; and upon due consideration had, as well of former times as of the present, wherein several Materials of neces<g ref="char:EOLhyphen"/>sary and principal use to the Carr-men, are risen, and consequently require some increase of Rates heretofore set for their labour and carriage; Now the said Justices of the Peace here assembled, respecting the times and other cir<g ref="char:EOLhyphen"/>cumstances necessary to be considered, do by authority and virtue of the Statute in this case made and provided, order, limit, rate and appoint the Wages for Carr-men within the City of <hi>London</hi> and Liberties thereof, to be as hereafter followeth:</p>
+               <p>First, That all Carr-men Trading or Working with Carrs in the City of <hi>London,</hi> and Liberties thereof, shall and may demand and take for every carriage or load of the Commodities under mentioned, the Rates hereafter following; and shall not exceed the same, upon pain to be strictly punished and proceeded against for every Offence to the contrary. That is to say,
+<table>
+                     <row>
+                        <cell> </cell>
+                        <cell>s.</cell>
+                        <cell>d</cell>
+                     </row>
+                     <row>
+                        <cell>From any of the Keys below the Bridge, for a Pipe of Wine or Three Hogsheads, to the <hi>Old Swan</hi>—</cell>
+                        <cell>1</cell>
+                        <cell>6</cell>
+                     </row>
+                     <row>
+                        <cell>From <hi>Billingsgate</hi> to <hi>Queen-hithe,</hi> for an old Wey of Salt—</cell>
+                        <cell>2</cell>
+                        <cell>6</cell>
+                     </row>
+                     <row>
+                        <cell>And for a new Wey of Salt, from and to the said place—</cell>
+                        <cell>2</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>From any the Wharfs between the <hi>Tower</hi> and <hi>London bridge,</hi> to <hi>Tower-street, Gracechurch-street, Fanchurch-street, Bishopsgate-street within, Cornhil,</hi> and places of like distance, up the hill, with eighteen hundred weight, not exceeding twenty hundred weight, Two shil<g ref="char:EOLhyphen"/>lings Two pence—</cell>
+                        <cell>2</cell>
+                        <cell>2</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>And being above Twenty hundred weight, Two pence for every Hundred.</p>
+               <p>PROVIDED the Carr-men for this Rate and all other Rates herein contained do help to load and unload their Carrs. <hi>In which may be included,</hi>
+                  <table>
+                     <pb n="10" facs="tcp:107912:6"/>
+                     <row>
+                        <cell>Two Puncheons of Prunes, two Bales of Mather, twenty Barrels of Figgs, two Fats of Fustians, six ordinary Sacks of Cotton Wool of <hi>Smyrna,</hi> and three Cypress Bags, a Butt of Currants, a great Butt of Oyls, three Chests of Sugar, eight Bags of Alums, one Last of Flax, one Last of Hemp, and any other goods herein not named, of the like weight, for every Load Two shillings Two pence—</cell>
+                        <cell>2</cell>
+                        <cell>2</cell>
+                     </row>
+                     <row>
+                        <cell>And for Sea-Coals, the Load Fourteen pence, every Load to be half a Chaldron; and for an hundred Faggots the like Rate—</cell>
+                        <cell>1</cell>
+                        <cell>2</cell>
+                     </row>
+                     <row>
+                        <cell>And from any the Wharfs aforesaid, to <hi>Broad-street, Lothbury, Old Jury, Bassishaw, Coleman-street, Ironmonger-lane, St. Lawrence-lane, Milk-street, Aldermanbury, Cheapside, Wood-street, Friday-street, Bread-street,</hi> and places of like distance, for the like weight of eigh<g ref="char:EOLhyphen"/>teen hundred, not exceeding twenty hundred weight, for the goods aforesaid, and other goods herein not named, of the like weight, for every Load Two shillings six pence—</cell>
+                        <cell>2</cell>
+                        <cell>6</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>And being above Twenty Hundred weight, for every Hundred Two pence.</p>
+               <p>
+                  <table>
+                     <row>
+                        <cell>And for Sea-Coals, the Load Sixteen pence, every Load to be half a Chaldron; and for an hundred Faggots the like Rate—</cell>
+                        <cell>1</cell>
+                        <cell>4</cell>
+                     </row>
+                     <row>
+                        <cell>Also from any the Wharfs aforesaid, to <hi>Smithfield-bars, Holbourn-bars, Temple-bar,</hi> or any of the Bars on the North side of the City, and places of like distance, up the Hill, with eighteen hundred weight, not exceeding twenty hundred weight, for every Load Three shillings four pence—</cell>
+                        <cell>3</cell>
+                        <cell>4</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>And going beyond the said places, the parties to agree with the Carr-men.</p>
+               <p>
+                  <table>
+                     <row>
+                        <cell>Also from any the Wharfs aforesaid, to <hi>Tower-street, Bishopsgate within, Cornhil,</hi> and other places of like distance up the Hill, with Fourteen hundred weight, not exceeding Eighteen hundred weight, Two and twenty pence—</cell>
+                        <cell>1</cell>
+                        <cell>10</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <hi>In which may be included,</hi>
+                  <table>
+                     <row>
+                        <cell>Twenty Pieces of Raisons, a Load of Raisons of the Sun, six Bags of Pepper, six ordinary Bags of Gauls, three great Bags of Gauls, six Bales and Barrels of Indicoe six Bales of Grogram Yarn, six Bales of <hi>Turkey</hi> Silk, five Hogsheads of Cloves, four Bales of Callicoes, three Hogsheads of Wines, two Chests of Sugar, or any other Goods of the like weight; five Hogsheads of Tobacco, not exceeding Eighteen hundred weight, Two and twenty pence—</cell>
+                        <cell>1</cell>
+                        <cell>10</cell>
+                     </row>
+                     <row>
+                        <cell>Also from any the Wharfs aforesaid, to <hi>Broad-street, Lothbury, Old Jury, Bassishaw, Coleman-street, Ironmonger-lane, St. Lawrence-lane, Milk-street, Aldermanbury, Cheapside, Wood-street, Friday-street, Bread-street,</hi> and places of the like distance, for any of the said Goods of the same quantity and weight, for every Load Two Shillings—</cell>
+                        <cell>2</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>Also from any the Wharfs aforesaid, to <hi>Tower-street, Gracechurch-street, Fanchurch-street, Bishopsgate-street</hi> within, <hi>Cornhil,</hi> and other places of like distance, up the Hill, with Eight hundred weight, not exceeding Fourteen hundred weight, Eighteen pence—</cell>
+                        <cell>1</cell>
+                        <cell>6</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <hi>In which may be included,</hi>
+                  <table>
+                     <row>
+                        <cell>All Butts and Pipes of Wine, or a Pipe of Oyl, Packs of Canvas, two Hogsheads or three Tierces, a Fat of Fustians, and all other Goods of the like bulk and weight, for every Load Eighteen pence</cell>
+                        <cell>1</cell>
+                        <cell>6</cell>
+                     </row>
+                     <pb n="11" facs="tcp:107912:6"/>
+                     <row>
+                        <cell>Also from the Wharfs aforesaid, to <hi>Broad-street, Lothbury, Old Jury, Bassishaw, Coleman-street, Ironmonger lane, St. Lawrence-lane, Milk street, Aldermanbury, Cheapside, Wood-street, Friday-street,</hi> and other places of like distance, for any other Goods of like load of weight, for every Load Twenty pence—</cell>
+                        <cell>1</cell>
+                        <cell>8</cell>
+                     </row>
+                     <row>
+                        <cell>Also from <hi>London-bridge</hi> foot Westward to the <hi>Old Swan, Cole Har<g ref="char:EOLhyphen"/>bour,</hi> the <hi>Three Cranes, Queenhithe, Broken-wharf, Pauls-wharf, Pud<g ref="char:EOLhyphen"/>dle-wharf,</hi> the <hi>Wardrope,</hi> and to all other places not exceeding the <hi>Poultry, Cheapside,</hi> or <hi>Newgate-market,</hi> for Thirteen hundred weight, not exceeding Eighteen hundred weight, Two and twenty pence—</cell>
+                        <cell>1</cell>
+                        <cell>10</cell>
+                     </row>
+                     <row>
+                        <cell>And for every Load of Sea-Coals, Fourteen pence, every Load to be half a Chaldron; and one hundred Faggots the like Rate—</cell>
+                        <cell>1</cell>
+                        <cell>2</cell>
+                     </row>
+                     <row>
+                        <cell>And from all other Wharfs and places between <hi>London-bridge</hi> and <hi>Temple-bar,</hi> to the same and places of the like distance, for every Load of Coals Fourteen pence, every Load to be half a Chaldron and a hundred Faggots of the like Rate—</cell>
+                        <cell>2</cell>
+                        <cell>2</cell>
+                     </row>
+                     <row>
+                        <cell>And to all places Northwards of the <hi>Poultry, Cheapside, Newgate-mar<g ref="char:EOLhyphen"/>ket, Holbourn-bridge</hi> and <hi>Fleet street,</hi> for Fourteen hundred weight, not exceeding Eighteen hundred weight, Two shillings two pence—</cell>
+                        <cell>2</cell>
+                        <cell>
+                           <gap reason="illegible: blotted" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>And from <hi>Tower-street, Gracechurch street, Fanchurch street, Bishops<g ref="char:EOLhyphen"/>gate-street within, Cornhil,</hi> and other places of like distance, for every Pack of twenty Cloaths, for six Bales of Cloaths and Kerseys, six Bales of Pepper, six Barrels of Indicoe, five Hogsheads of Cloves, and for other goods not herein mentioned, of like weight, to the Water-side, Sixteen pence—</cell>
+                        <cell>1</cell>
+                        <cell>
+                           <gap reason="illegible: faint" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>And from <hi>Broad-street, Lothbury, Old Jury, Bassishaw, Coleman-street, Ironmonger-lane, St. Lawrence lane, Milk-street, Aldermanbury, Cheapside, Wood-street, Friday-street, Bread-street,</hi> and other places of like di<g ref="char:EOLhyphen"/>stance, to the Water side, for the like weight, Twenty pence.—</cell>
+                        <cell>1</cell>
+                        <cell>8</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>And for places nearer, or of less distance, the parties hiring and to be hired, are to make agreement answerable or proportionable to the Rates before men<g ref="char:EOLhyphen"/>tioned.</p>
+               <p>And if any Carr-man shall take for his labour and hire above the Rates before limited and appointed, and the same be duly proved by the testimony of one or more credible Witness or Witnesses before the Lord Mayor, or any two of their Majesties Justices of the Peace or otherwise within the City of <hi>London,</hi> such Carr-men shall suffer imprisonment by the space of one and twenty days, without Bail or Mainprize, according to the Statute in this be<g ref="char:EOLhyphen"/>half; and shall undergo such further pains and penalties as by the Law may be inflicted for the said Offence.</p>
+               <p>And to the end that all Carr-men may be incouraged duly to observe the several Orders and Rates herein before limited and appointed, It it further Ordered, That if any Merchant, Tradesman, or others, shall at any time hereafter refuse to pay to any Carr-man or Carr-men his and their hire or wages, according to the several Rates herein before ordered and appointed, that then it shall be lawful, and it is hereby Ordered, that such Carr-man and Carr-men do make his and their Complaint to the President of <hi>Christs-Hospital</hi> for the time being, or to any of their Majesties Justices of the Peace within the said City of <hi>London;</hi> who are hereby desired to compel the payment of such hire and wages, and to enforce the due observance of all and every the Order above-mentioned according to Laws and Justice.</p>
+               <pb n="12" facs="tcp:107912:7"/>
+               <p> And farther it is Ordered, That if any Merchant or person whatsoever, shall cause any Carr-man to stay or attend at his House, Shop, Warehouse or Cellar with his loaden Carr above half an hour before he unloads, such Carr-man being willing to help to unload the same, such Merchants or others shall pay such Carr-men after the Rate of Twelve pence an hour, after the said first half hour, for his said attendance.</p>
+               <closer>
+                  <signed>GOOD FELLOW.</signed>
+               </closer>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
